@@ -1,6 +1,6 @@
 cask "sutra" do
-  version "0.1.5"
-  sha256 "a31afd163d9e23b6bddaf77e702e8476552fd7c473cb052d5683c6ef29ac05b4"
+  version "0.1.6"
+  sha256 "fbaa47d6d6de0af1c1449222d426bdf7dd84068435b78932c9f6a6985cf8507e"
 
   url "https://github.com/synestheticsystems/sutra/releases/download/v#{version}/Sutra-#{version}.dmg"
   name "Sutra"
