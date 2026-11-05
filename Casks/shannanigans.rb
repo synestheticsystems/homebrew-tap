@@ -1,6 +1,6 @@
 cask "shannanigans" do
-  version "0.5.0"
-  sha256 "e18925e0a6b03c9cb7af4ee56fb45a8af1615f8229b67e8bf1a14d4f17de4bb5"
+  version "0.5.1"
+  sha256 "f06e7792956e379272b4dde9418533e1c4bdade140a1b8db254bab7fd199e12e"
 
   url "https://shannanigans.app/download/Shannanigans-#{version}.dmg"
   name "Shannanigans"
